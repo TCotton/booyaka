@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TCotton/booyaka/issues"
   },
-  "homepage": "https://github.com/TCotton/booyaka#readme"
+  "homepage": "https://github.com/TCotton/booyaka#readme",
+  "dependencies": {
+    "@stryker-mutator/api": "^5.2.1"
+  }
 }
